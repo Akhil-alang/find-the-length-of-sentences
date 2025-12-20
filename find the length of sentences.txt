@@ -8,4 +8,5 @@ for char in word:
     else:
         counts[char] += 1
 
-print(counts) sai
+print(counts)
+
