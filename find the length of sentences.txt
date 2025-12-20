@@ -7,4 +7,5 @@ for char in word:
         counts[char] = 1
     else:
         counts[char] += 1
-print(counts)
+
+print(counts) sai
